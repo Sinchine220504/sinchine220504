@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://dulcet-tulumba-8d1f68.netlify.app/](https://dulcet-tulumba-8d1f68.netlify.app/)
 
 - 💬 Ask me about **UI UX, MERN STACK**
-- <p align="center"><img src="computer.png" alt="Computer" width="100" height="90" /></p>
+- <p align="center"><img src="computer.png" alt="Computer" width="300" height="290" /></p>
 
 - 📫 How to reach me **sinchinedas9285@gmail.com**
 

@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinchine Das</h1>
 <h3 align="center">Full Stack Developer from India | Building Seamless Frontend & Backend Experiences | UI/UX & Java Enthusiast</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sinchine220504&label=Profile%20views&color=0e75b6&style=flat" alt="sinchine220504](https://in.pinterest.com/pin/768637861415747908/)" /> </p>
-
+<img src="images/computer.png" alt="Computer" width="40" height="40" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinchine220504" alt="sinchine220504" /></a> </p>
 
 - 🌱 I’m currently learning **DJANGO**

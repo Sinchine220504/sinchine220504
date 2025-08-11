@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from India | Building Seamless Frontend & Backend Experiences | UI/UX & Java Enthusiast</h3>
 
 <p align="center"><img src="images/computer.png" alt="Computer" width="40" height="40" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinchine220504" alt="sinchine220504" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinchine220504" alt="sinchine220504" /></a> </p>
 
 - 🌱 I’m currently learning **DJANGO**
 

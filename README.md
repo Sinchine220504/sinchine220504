@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sinchine Das</h1>
 <h3 align="center">Full Stack Developer from India | Building Seamless Frontend & Backend Experiences | UI/UX & Java Enthusiast</h3>
 
-<p align="center"><img src="computer.png" alt="Computer" width="40" height="40" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinchine220504" alt="sinchine220504" /></a> </p>
 
 - 🌱 I’m currently learning **DJANGO**
@@ -9,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://dulcet-tulumba-8d1f68.netlify.app/](https://dulcet-tulumba-8d1f68.netlify.app/)
 
 - 💬 Ask me about **UI UX, MERN STACK**
+- <p align="center"><img src="computer.png" alt="Computer" width="100" height="90" /></p>
 
 - 📫 How to reach me **sinchinedas9285@gmail.com**
 
